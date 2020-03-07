@@ -1,0 +1,19 @@
+h1 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 3em;
+}
+
+.paragrapheBlanc {
+    color: aliceblue;
+    text-align: center;
+    font-size: 2em;
+}
+
+body {
+    min-height: 100%;
+}
+
+html {
+    height: 100%;
+}
